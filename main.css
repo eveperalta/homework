@@ -1,0 +1,57 @@
+.imagen{
+  text-align:center;
+}
+
+body{
+  background-color: white;
+}
+.seccion1{
+  text-align:justify;
+  background-color:black;
+  color: white;
+  border-radius:15px;
+  padding: 5px;
+}
+.seccion2 img {
+  border-right:2px solid darkred;
+  width:300px;
+}
+.seccion2 h3 {
+  border-bottom:2px solid darkred;
+  margin-left:-5px;
+}
+table{
+  border:1px solid darkred;
+  border-radius:15px;
+}
+td {
+  text-align:justify;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+.seccion3{
+  background-color:black;
+  color:white;
+  border-radius:15px;
+  text-align:center;
+  font-size: 18px;
+  letter-spacing:3px;
+}
+.seccion3 h2{
+  border-bottom: 2px solid darkred;
+}
+.seccion4 h2{
+  border-bottom: 2px solid darkred;
+}
+.seccion4{
+  background-color:black;
+  color:white;
+  border-radius:15px;
+  text-align:center;
+  font-size: 18px;
+  letter-spacing:3px;
+}
+.footer{
+  text-align:center;
+}
